@@ -1,0 +1,14 @@
+first setup project with  your node js and express
+
+after that install socket.io using 
+npm i socket.io
+
+after that chek docs of socket following link
+
+1.https://socket.io/docs/v3/server-api/ 
+2.https://github.com/socketio/socket.io
+3.https://socket.io/get-started/chat      ---- imp
+
+
+
+
